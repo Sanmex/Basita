@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basita</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel">Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">editar</string>
+</resources>
